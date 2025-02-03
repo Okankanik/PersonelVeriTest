@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|c:\\users\\technopc\\desktop\\yaz\u0131l\u0131m dosyalar\u0131\\c#\\denemec#\\denemec#\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|solutionrelative:denemec#\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\denemec#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|solutionrelative:denemec#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\denemec#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|solutionrelative:denemec#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\denemec#\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{834EB1D5-3DDE-4778-AEE5-994825A3E638}|DenemeC#\\DenemeC#.csproj|solutionrelative:denemec#\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "icerik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\icerik.cs",
+              "RelativeDocumentMoniker": "DenemeC#\\icerik.cs",
+              "ToolTip": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\icerik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DenemeC#\\icerik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:35:35.318Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\Form1.cs",
+              "RelativeDocumentMoniker": "DenemeC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DenemeC#\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:01:24.805Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\Form1.cs",
+              "RelativeDocumentMoniker": "DenemeC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\Form1.cs",
+              "RelativeToolTip": "DenemeC#\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:46:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "icerik.cs",
+              "DocumentMoniker": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\icerik.cs",
+              "RelativeDocumentMoniker": "DenemeC#\\icerik.cs",
+              "ToolTip": "C:\\Users\\Technopc\\Desktop\\Yaz\u0131l\u0131m dosyalar\u0131\\C#\\DenemeC#\\DenemeC#\\icerik.cs",
+              "RelativeToolTip": "DenemeC#\\icerik.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:51:21.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
